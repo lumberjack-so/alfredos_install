@@ -1,7 +1,7 @@
 # AlfredOS
 
 <div align="center">
-  <img src="client/public/assets/d7b05a15-8ff7-44a2-8457-41187acfceb0.png" alt="AlfredOS Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/ssdavidai/alfred/main/client/public/assets/d7b05a15-8ff7-44a2-8457-41187acfceb0.png?token=GHSAT0AAAAAAC4XFY2ME5YLDV4GTUROOY242BDVFJQ" alt="AlfredOS Logo" width="200" />
   <p>Your complete business stack in a box — self-hosted, privacy-focused, and ready to launch</p>
   
   ![Status](https://img.shields.io/badge/status-active-success.svg)
