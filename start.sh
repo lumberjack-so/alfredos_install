@@ -9,7 +9,7 @@ fi
 
 # Exchange the key for a token
 BROKER="https://ojflhjvssqramhexvclr.functions.supabase.co/token-broker"
-REPO="github.com/ssdavidai/alfred.git"
+REPO="github.com/lumberjack-so/alfredOS.git"
 
 echo "🔑 Validating license key..."
 TOKEN=$(curl -sS -X POST -H "Content-Type: application/json" \
